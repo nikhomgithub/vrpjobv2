@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/oldpage/static/css/main.2687db21.chunk.css",
+    "main.js": "/oldpage/static/js/main.72c3a6ec.chunk.js",
+    "main.js.map": "/oldpage/static/js/main.72c3a6ec.chunk.js.map",
+    "runtime-main.js": "/oldpage/static/js/runtime-main.192caeef.js",
+    "runtime-main.js.map": "/oldpage/static/js/runtime-main.192caeef.js.map",
+    "static/css/2.30e53678.chunk.css": "/oldpage/static/css/2.30e53678.chunk.css",
+    "static/js/2.6f45da60.chunk.js": "/oldpage/static/js/2.6f45da60.chunk.js",
+    "static/js/2.6f45da60.chunk.js.map": "/oldpage/static/js/2.6f45da60.chunk.js.map",
+    "index.html": "/oldpage/index.html",
+    "precache-manifest.b1bca847311daa84a830396cf0075763.js": "/oldpage/precache-manifest.b1bca847311daa84a830396cf0075763.js",
+    "service-worker.js": "/oldpage/service-worker.js",
+    "static/css/2.30e53678.chunk.css.map": "/oldpage/static/css/2.30e53678.chunk.css.map",
+    "static/css/main.2687db21.chunk.css.map": "/oldpage/static/css/main.2687db21.chunk.css.map",
+    "static/js/2.6f45da60.chunk.js.LICENSE.txt": "/oldpage/static/js/2.6f45da60.chunk.js.LICENSE.txt",
+    "static/media/App2.css": "/oldpage/static/media/icecream.96feb646.jpg",
+    "static/media/Home.css": "/oldpage/static/media/waterfall.e379c494.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.192caeef.js",
+    "static/css/2.30e53678.chunk.css",
+    "static/js/2.6f45da60.chunk.js",
+    "static/css/main.2687db21.chunk.css",
+    "static/js/main.72c3a6ec.chunk.js"
+  ]
+}
